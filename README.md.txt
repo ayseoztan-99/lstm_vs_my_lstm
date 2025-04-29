@@ -1,0 +1,1 @@
+This project presents a multi-input LSTM model for hourly traffic flow forecasting using recent, daily, and weekly features. A NumPy-based implementation developed from scratch is compared with a standard Keras version. Both models were also tested on an additional dataset.
